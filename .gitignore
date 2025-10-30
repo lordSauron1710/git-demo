@@ -1,0 +1,40 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.so
+
+# ---- Virtual environments ----
+env/
+venv/
+.venv/
+ENV/
+envs/
+*.env
+
+# ---- Jupyter ----
+.ipynb_checkpoints
+*.ipynb_save
+
+# ---- IDEs / Editors ----
+.vscode/
+.idea/
+.DS_Store
+
+# ---- Data / Models ----
+*.csv
+*.tsv
+*.log
+*.h5
+*.pkl
+*.db
+*.sqlite3
+*.ckpt
+*.weights
+*.onnx
+*.pt
+*.pth
+/data/
+/models/
+
+# ---- OS / Misc ----
+Thumbs.db
